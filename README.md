@@ -74,9 +74,9 @@
 
    `"AssignableScopes": [       `
 
-      ``"/providers/Microsoft.Management/managementGroups/az104-02-mg1",       `
+      `"/providers/Microsoft.Management/managementGroups/az104-02-mg1",` 
 
-      `"/subscriptions/SUBSCRIPTION_ID"   `
+   `"/subscriptions/SUBSCRIPTION_ID"` 
 
    `] `  
 
